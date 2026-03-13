@@ -1,5 +1,17 @@
 Heres a mock Quality Dashboard with fictional MES/QMS/ERP data to practice and learn more about SQL/Python/Pandas and high level ML concepts
 
+
+aerospace_quality.db = Mock database
+generate_data.py = generates data random outputs from database
+**pipeline.py = importing from generated data, using pandas/sql to aggregate/transform data, prep data for ML training**
+ml_models.py = Scikit/xgboost for ML insights
+dashboard.py = mostly CSS and formatting for hosting dashboard on streamlit
+
+
+
+
+- Thoughts -
+
 I learned most about building pipelines using SQL in python/pandas using multi-table joins from different databases
 ..and how to make ML-ready tables from qualitative data. (i.e. assigning attributes like day/night shifts to 1/0 for ML training)
 
