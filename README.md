@@ -7,10 +7,9 @@ generate_data.py = generates data random outputs from database
 ml_models.py = Scikit/xgboost for ML insights
 dashboard.py = mostly CSS and formatting for hosting dashboard on streamlit
 
+dashboard url: https://aerospace-quality-dashboard-wwh5hop3s3uvj2f89259sy.streamlit.app/
 
-
-
-- Thoughts -
+*Thoughts*
 
 I learned most about building pipelines using SQL in python/pandas using multi-table joins from different databases
 ..and how to make ML-ready tables from qualitative data. (i.e. assigning attributes like day/night shifts to 1/0 for ML training)
