@@ -1,0 +1,11 @@
+supplier_id,supplier_name,tier,country,approved_status,total_inspections,failed_inspections,fail_rate_pct,total_defects,total_defect_cost,avg_visual_score
+SUP-006,Pacific Rim Castings,Tier-2,Japan,Approved,33,18,54.5,18,14950.22,6.0
+SUP-004,Helios Fastener Systems,Tier-2,Germany,Approved,29,14,48.3,14,9201.95,6.6
+SUP-002,Orbital Composites Ltd,Tier-1,USA,Approved,32,15,46.9,15,26115.53,6.3
+SUP-005,NovaTech Avionics Supply,Tier-1,USA,Approved,29,13,44.8,13,13734.86,5.7
+SUP-003,StratoMet Components,Tier-2,UK,Approved,33,11,33.3,11,32825.86,6.7
+SUP-008,Meridian Surface Treatments,Tier-3,Mexico,Not Approved,33,11,33.3,11,43000.47,6.7
+SUP-007,Delta Forge Industries,Tier-2,USA,Approved,34,11,32.4,11,10607.02,6.7
+SUP-009,Quantum Seal Technologies,Tier-2,USA,Approved,29,9,31.0,9,70422.08,7.0
+SUP-010,Atlas Substrate Corp,Tier-3,India,Approved,39,10,25.6,10,48663.54,7.4
+SUP-001,Apex Precision Machining,Tier-1,USA,Approved,20,3,15.0,3,2286.95,7.8

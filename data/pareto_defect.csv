@@ -1,0 +1,11 @@
+defect_type,count,total_cost,severity,cumulative_pct
+Marking / Labeling Error,35,132397.73,Major,13.3
+Contamination,32,116875.85,Minor,25.4
+Porosity / Void,28,45471.72,Minor,36.0
+Corrosion / Oxidation,27,17304.13,Minor,46.2
+Wrong Material Cert,26,92433.97,Minor,56.1
+Dimensional Out-of-Tolerance,26,22064.09,Major,65.9
+Improper Torque,25,37092.45,Major,75.4
+Weld Defect,24,89052.42,Major,84.5
+Surface Finish Non-Conformance,22,22608.23,Minor,92.8
+Missing Feature,19,52952.05,Minor,100.0

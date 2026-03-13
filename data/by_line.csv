@@ -1,0 +1,5 @@
+production_line,total,failures,fail_rate_pct
+Line-Charlie,178,74,41.6
+Line-Bravo,224,51,22.8
+Line-Alpha,179,40,22.3
+Line-Delta,185,36,19.5
