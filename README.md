@@ -2,10 +2,15 @@ Heres a mock Quality Dashboard with fictional MES/QMS/ERP data to practice and l
 
 
 aerospace_quality.db = Mock database
+
 generate_data.py = generates data random outputs from database
+
 **pipeline.py = importing from generated data, using pandas/sql to aggregate/transform data, prep data for ML training**
+
 ml_models.py = Scikit/xgboost for ML insights
+
 dashboard.py = mostly CSS and formatting for hosting dashboard on streamlit
+
 
 dashboard url: https://aerospace-quality-dashboard-wwh5hop3s3uvj2f89259sy.streamlit.app/
 
