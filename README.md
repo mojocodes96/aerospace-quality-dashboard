@@ -3,7 +3,7 @@ Heres a mock Quality Dashboard with fictional MES/QMS/ERP data to practice and l
 
 aerospace_quality.db = Mock database
 
-generate_data.py = generates data random outputs from database
+generate_data.py = generates random outputs from database
 
 **pipeline.py = importing from generated data, using pandas/sql to aggregate/transform data, prep data for ML training**
 
