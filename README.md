@@ -12,7 +12,9 @@ ml_models.py = Scikit/xgboost for ML insights
 dashboard.py = mostly CSS and formatting for hosting dashboard on streamlit
 
 
-dashboard url: https://aerospace-quality-dashboard-wwh5hop3s3uvj2f89259sy.streamlit.app/
+dashboard url: https://quality-dashboard-ml.streamlit.app/
+
+(May need to be "Woken Up")
 
 *Thoughts*
 
